@@ -1,0 +1,10 @@
+C:\CIDMAssignment2\bin\Debug\netcoreapp2.0\CIDMAssignment2.deps.json
+C:\CIDMAssignment2\bin\Debug\netcoreapp2.0\CIDMAssignment2.runtimeconfig.json
+C:\CIDMAssignment2\bin\Debug\netcoreapp2.0\CIDMAssignment2.runtimeconfig.dev.json
+C:\CIDMAssignment2\bin\Debug\netcoreapp2.0\CIDMAssignment2.dll
+C:\CIDMAssignment2\bin\Debug\netcoreapp2.0\CIDMAssignment2.pdb
+C:\CIDMAssignment2\obj\Debug\netcoreapp2.0\CIDMAssignment2.csproj.CoreCompileInputs.cache
+C:\CIDMAssignment2\obj\Debug\netcoreapp2.0\CIDMAssignment2.AssemblyInfoInputs.cache
+C:\CIDMAssignment2\obj\Debug\netcoreapp2.0\CIDMAssignment2.AssemblyInfo.cs
+C:\CIDMAssignment2\obj\Debug\netcoreapp2.0\CIDMAssignment2.dll
+C:\CIDMAssignment2\obj\Debug\netcoreapp2.0\CIDMAssignment2.pdb
